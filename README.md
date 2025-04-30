@@ -6,9 +6,8 @@ The test request:
 ![image](https://github.com/user-attachments/assets/36359c6a-2975-4b4d-bbfe-766e32156476)
 
 The test response:
+
 ![image](https://github.com/user-attachments/assets/28b68751-8818-4e72-a4e0-5241abb17b33)
-
-
 
 Suppored Requests:
 GET, HEAD
