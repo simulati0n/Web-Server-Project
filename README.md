@@ -1,6 +1,8 @@
 This server can be tested using Postman:
 To test the server, run the server.py file then go to Postman and start a new request.
+
 The test request:
+
 ![image](https://github.com/user-attachments/assets/36359c6a-2975-4b4d-bbfe-766e32156476)
 
 The test response:
